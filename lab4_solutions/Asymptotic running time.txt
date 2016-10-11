@@ -1,0 +1,2 @@
+Remove - Worst case n + log(n) (so n)
+Merge - n1 + n2 + log(n2 + n2) (so n)
