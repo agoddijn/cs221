@@ -1,0 +1,1 @@
+The functions depth(), delete_node(), find_parent(), and find() would no longer work, or would have to change if the invariant is violated.
