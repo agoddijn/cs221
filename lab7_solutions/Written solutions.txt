@@ -1,0 +1,3 @@
+Q3: Data in csv and graph
+Q3a: Under 70% load, quadratic starts to beat linear
+Q3b:

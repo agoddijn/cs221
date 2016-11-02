@@ -1,0 +1,17 @@
+2: Array size; Comps (100 reps)
+  10;     27
+  100;    706
+  1000;   10998
+  10000;  155710
+
+3: Using qc
+  10;     26
+  100;    681
+  1000;   10717
+  10000;  156169
+
+4: In notebook
+
+5: Runtime in average case is nlog(n)
+  Runtime in worst case is n^2
+  Worst case not likely to happen because you would have to choose the smallest or largest element each time, which is unlikely when choosing pivots randomly. Or if we are choosing the ifrst element to be the pivot each time, it would have to be sorted in reverse already.
