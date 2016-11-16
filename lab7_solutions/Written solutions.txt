@@ -1,3 +1,5 @@
 Q3: Data in csv and graph
 Q3a: Under 70% load, quadratic starts to beat linear
-Q3b:
+Q3b: k % (_size - 2) + 1 seems to perform better than quadratic
+Q3c: The double hashing scheme starts winning out at around 40% load factor
+Q3d: I would choose doubl hashing in this case. It seems to work best at high load. I would not always choose this however. It would depend on what the application of the hash table is
